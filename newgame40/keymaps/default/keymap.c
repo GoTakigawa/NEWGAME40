@@ -1,4 +1,4 @@
-qwっq/* Copyright 2018 GoTakigawa
+/* Copyright 2018 GoTakigawa
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

@@ -21,8 +21,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xCEEB
-#define PRODUCT_ID      0x0007
+#define VENDOR_ID       0xFEED
+#define PRODUCT_ID      0x0000
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    GoTakigawa
 #define PRODUCT         NEWGAME40
@@ -37,18 +37,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COL_PINS { D3, D2, D1, D0, D4, C6, D7, E6, B4, B5 }
 #define UNUSED_PINS
 
-/* number of backlight levels */
-#ifdef BACKLIGHT_ENABLE
-  #define BACKLIGHT_PIN B6
-  #define BACKLIGHT_LEVELS 9
-//  #define BACKLIGHT_BREATHING
-#endif
-
 /* ws2812 RGB LED */
 #define RGB_DI_PIN F6
 #define RGBLIGHT_TIMER
 #define RGBLIGHT_ANIMATIONS
-#define RGBLED_NUM 8    // Number of LEDs
+#define RGBLED_NUM 25    // Number of LEDs
 #define ws2812_PORTREG  PORTD
 #define ws2812_DDRREG   DDRD
 #define RGBLIGHT_HUE_STEP 10
