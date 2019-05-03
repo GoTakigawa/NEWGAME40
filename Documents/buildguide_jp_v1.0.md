@@ -37,6 +37,7 @@
 
 ![LED](https://i.imgur.com/2IjZhoJ.jpg)
 
+|部品名|型番|数量|メモ|
 |------|----|----|----|
 |KeyBackLight|sk6812mini|40個|----|
 |UnderGlow|テープws2812B|適量[150mm程度]|----|
