@@ -8,7 +8,7 @@ Keyboard Maintainer:
 [GoTakigawa](https://github.com/GoTakigawa)
 [@Go_Drums](https://twitter.com/Go_Drums)  
 Hardware Supported: The NEWGAME40 PCBs, ProMicro supported  
-Hardware Availability: Group buy soon
+Hardware Availability: https://gti.base.shop (Only to Japan)
 
 Make example for this keyboard (after setting up your build environment):
 
